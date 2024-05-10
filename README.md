@@ -41,7 +41,9 @@ The ERD
 * Created sequential "category_id" list comprehension from cat1 to cat*n*.
 * Created sequential "subcategory_id" list comprehension from subcat1 to subcat*n*.
 * Created a dataframe for category and subcategory.
+  
   ![category_df](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/70939c6e-3e5f-44aa-99ee-5c3996b16991)
+  
   ![subcategory_df](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/ec587ebf-24e5-4404-8215-df26b4b74a02)
 
 * Exported dataframes as CSV files.
@@ -72,6 +74,7 @@ The ERD
 * Created a "first"name" and "last_name" column with the first and last names from the "name" column. 
 * Dropped the "contact_name" column.
 * Reorded the columns.
+  
   ![contacts_df](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/66e055ae-fdac-43b3-b9c3-94b63e8c2a84)
 
 * Exported "contacts_df_clean" DataFrame as a CSV file. 
