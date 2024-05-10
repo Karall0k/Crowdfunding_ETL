@@ -11,19 +11,23 @@ The objective for this assignment is to take crowdsourcing data from two excel f
 
 # **The following files were used:**
 
-# **Initial Excel Files:**
+## **Initial Excel Files:**
 crowdfunding.xlsx
+
 contacts.xlsx
 
 
-# **Created DataFrames exported to CSV:**
+## **Created DataFrames exported to CSV:**
 category.csv
+
 subcategory.csv
+
 campaign.csv
+
 contacts.csv
 
 
-# **Created Database Files:**
+## **Created Database Files:**
 Crowdfunding_db_schema.sql
 
 **The ERD**
