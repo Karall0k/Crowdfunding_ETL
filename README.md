@@ -25,7 +25,10 @@ contacts.csv
 
 # **Created Database Files:**
 Crowdfunding_db_schema.sql
-The ERD
+
+**The ERD**
+
+![ETL_ERD](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/738caf47-0c60-433a-a40e-1d26fde7c509)
 
 
 
