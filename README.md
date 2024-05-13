@@ -60,3 +60,23 @@ contacts.xlsx
 
 ![ETL_ERD](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/738caf47-0c60-433a-a40e-1d26fde7c509)
 
+
+# **SQL**
+
+  # **Created Database**
+    * Create a database from the four exported dataframes: campaign.csv, category.csv, contacts.csv, subcategory.csv.
+
+
+  # **Created Schema**
+    * Created tables in this specific order: "category", "subcategory", "contacts", then "campaign".
+
+
+  # **Created Queries**
+    * Created the queries in SQL:
+      SELECT * FROM "category" ;
+      SELECT * FROM "subcategory";
+      SELECT * FROM "contacts";
+      SELECT * FROM "campaign";
+      
+    * Created the merged queries.
+
