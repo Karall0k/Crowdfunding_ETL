@@ -61,22 +61,58 @@ contacts.xlsx
 ![ETL_ERD](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/738caf47-0c60-433a-a40e-1d26fde7c509)
 
 
-# **SQL**
+## **SQL**
 
-  # **Created Database**
-    * Create a database from the four exported dataframes: campaign.csv, category.csv, contacts.csv, subcategory.csv.
-
-
-  # **Created Schema**
-    * Created tables in this specific order: "category", "subcategory", "contacts", then "campaign".
+  ### **Created Database**
+  * Create a database from the four exported dataframes: campaign.csv, category.csv, contacts.csv, subcategory.csv.
 
 
-  # **Created Queries**
-    * Created the queries in SQL:
-      SELECT * FROM "category" ;
-      SELECT * FROM "subcategory";
-      SELECT * FROM "contacts";
-      SELECT * FROM "campaign";
+  ### **Created Schema**
+  * Created tables in this specific order: "category", "subcategory", "contacts", then "campaign".
+
+
+  ### **Created Queries**
+  * Created the queries in SQL:
+    * Query 1:   
+      ![category_query](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/ec31afdb-f9b6-4b08-99b4-fe782d38a937)
+
+      ![category_table](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/3aee9f2e-c555-46ef-99ec-14212b70f777)
+
+
+    * Query 2:
+      ![subcat_query](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/4261bb99-2925-46f9-bab4-d0df96439d13)
+
+      ![subcat_table1](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/68b124f2-43bd-4f5c-ada6-5119336c4ffa)
+
+      ...
+    
+      ![subcat_table2](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/320837cd-1723-4543-8c04-7cd40d8c6686)
+
+
+    * Query 3:
+      ![contacts_query](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/17acfbb0-1971-4a21-8dbd-b4b3315b5415)
+
+      ![contact_table1](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/15b6b80f-7384-4ffc-a779-e2fdbfa74422)
+
+      ...
+    
+      ![contact_table2](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/ce330821-9f4c-46ce-bb86-01a3cfb3c326)
+
+
+    * Query 4:
+      ![campaign_query](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/318f362b-2593-47c4-b8f1-a363b1300770)
+
+      ![camp_table1](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/2c9c1bd9-a597-4c92-8d02-d110594d5fe4)
+
+      ...
+
+      ![camp_table2](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/49241bed-ecf9-4aa7-947d-c56316e242e1)
+
       
-    * Created the merged queries.
+    * Query 5: Created the merged queries.
+
+      ![created_merge_query](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/2fe856e1-a6d9-452f-be49-42918b5d6335)
+
+      ![created_merge_table](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/4ed929fe-8e6d-4778-b603-479ae8da20c5)
+
 
