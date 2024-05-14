@@ -73,8 +73,7 @@ contacts.xlsx
 
   ### **Created Queries**
   * Created the queries in SQL:
-    * Query 1:   
-      ![category_query](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/ec31afdb-f9b6-4b08-99b4-fe782d38a937)
+    * Query 1: ![category_query](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/ec31afdb-f9b6-4b08-99b4-fe782d38a937)
 
       ![category_table](https://github.com/Karall0k/Crowdfunding_ETL/assets/159741444/3aee9f2e-c555-46ef-99ec-14212b70f777)
 
